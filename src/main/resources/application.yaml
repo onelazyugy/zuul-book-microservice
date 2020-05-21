@@ -1,0 +1,8 @@
+server:
+  port: 8333
+  servlet:
+    context-path: /book
+spring:
+  application:
+    name: bookservice
+
